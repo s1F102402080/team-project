@@ -1,0 +1,39 @@
+body{
+    background-color: #FFF8E0;
+}
+
+h1 {
+    color:#fff;
+    background-color: #296BFF;
+    padding: 5px;
+    margin: 0%;
+}
+
+h2{
+    color: #fff;
+    background-color: #296BFF;
+}
+
+table{
+    background-color:#E0DED7;
+    border-top:solid #000;
+    border-left:solid #000;
+}
+
+td{
+    border-bottom:solid #000;
+    border-right: solid #000;
+}
+
+#container{
+    display: flex;
+    flex-direction: row;
+}
+
+div.sidebar {
+    width: 70%;
+}
+
+div.content{
+    width: 50%;
+}
