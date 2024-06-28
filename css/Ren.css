@@ -1,0 +1,23 @@
+body{
+    background-color: #000000;
+    color:rgb(255, 248, 248)   
+}
+
+h1{
+    font-size: 40px;
+    color: #bc0505;
+    text-align: center;
+    padding-left: 100px;
+    border-bottom: solid 3px #ffffff;
+    text-shadow: 4px 4px 2px #4b0505;
+}
+
+div.osusume{
+    width: 70%;
+    margin: 10px 0 10px 0;
+}
+
+div.iu{
+    width: 30%;
+    margin: 10px 0 10px 0;
+}
